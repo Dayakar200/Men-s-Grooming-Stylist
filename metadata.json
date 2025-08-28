@@ -1,0 +1,8 @@
+{
+  "name": "Men's AI Grooming Stylist",
+  "description": "Virtually try on new hairstyles and beards. Use your camera or upload a photo, describe your desired look with text or voice, and see a realistic transformation powered by AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
